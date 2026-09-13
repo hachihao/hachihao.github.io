@@ -84,6 +84,7 @@ My name is Cehao Yang(杨策皓), a third-year PhD in Artificial Intelligence. C
 - 2023.07 - 2023.08, Red Bird Challenge Camp, HKUST(GZ), Teaching Assistant
 
 # 💻 Internships
-- *2025.01 - Now*, Research Intern, DataArcTech Ltd.
-- *2023.08 - 2024.08*, NLP Research Intern, IDEA FinAI, Shenzhen.
+- *2026.09 - Now*, Technical Research Intern, Tencent LightSpeed, Shenzhen.
+- *2025.01 - 2026.08*, Technical Research Intern, DataArcTech Ltd.
+- *2023.08 - 2024.12*, NLP Research Intern, IDEA FinAI, Shenzhen.
 - *2021.06 - 2021.09*, Back-end Research & Development Intern, ByteDance, Shenzhen.
