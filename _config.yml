@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Cehao Yang - Homepage"
 description              : ""
-repository               : "hachihao/haichihao.github.io"
+repository               : "hachihao/hachihao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "haichihao"
+  github           : "hachihao"
   google_plus      :
   keybase          :
   instagram        :
